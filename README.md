@@ -55,7 +55,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      45      |                       |        |                              |
 |      46      |                       |        |                              |
 |      47      |                       |        |                              |
-|      48      |                       |        |                              |
+|      48      | Peter Leitner         | 5BHIF  | 10                           |
 |      49      |                       |        |                              |
 |      50      |                       |        |                              |
 |      51      |                       |        |                              |
