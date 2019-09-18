@@ -41,7 +41,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      31      |                       |        |                              |
 |      32      |                       |        |                              |
 |      33      |                       |        |                              |
-|      34      |                       |        |                              |
+|      34      | Lukas Mistlberger     | 5BHIF  | 6                            |
 |      35      |                       |        |                              |
 |      36      |                       |        |                              |
 |      37      |                       |        |                              |
