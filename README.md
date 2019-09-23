@@ -55,12 +55,12 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      45      |                       |        |                              |
 |      46      |                       |        |                              |
 |      47      | Peter Leitner         | 5BHIF  | 10                           |
-|      48      |                       |        |                              |
-|      49      |                       |        |                              |
-|      50      |                       |        |                              |
-|      51      |                       |        |                              |
-|      52      |                       |        |                              |
-|      53      |                       |        |                              |
+|      48      | Peter Leitner         | 5BHIF  | 10                           |
+|      49      | Felix Leibetseder     | 5BHIF  | 10                           |
+|      50      | Martin Böhm           | 5BHIF  | 4                            |
+|      51      | Martin Böhm           | 5BHIF  | 4                            |
+|      52      | Martin Böhm           | 5BHIF  | 4                            |
+|      53      | Martin Böhm           | 5BHIF  | 4                            |
 |      54      | Tim Klecka            | 5BHIF  |                              |
 |      55      | Markus Kurzmann       | 5BHIF  | 10                           |
 |      56      | Michael Hitzker       | 5BHIF  | 5                            |
