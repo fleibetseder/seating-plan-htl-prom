@@ -9,7 +9,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |  Tischnummer |  Schülername          | Klasse | Anzahl von Personen am Tisch |
 |:------------:| --------------------- | ------ |:----------------------------:|
 |      01      | Lang Christina        | 5AHIF  | 10                           |
-|      02      | Hofer Daniel          | 5AHIF  | 2                            |
+|      02      | Hofer Daniel; Lang Christina | 5AHIF  | 2; 4                         |
 |      03      | Katrin Haslinger      | 5AHIF  | 10                           |
 |      04      | Lange Samuel          | 5AHIF  | 9                            |
 |      05      |                       |        |                              |
@@ -40,8 +40,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      30      |                       |        |                              |
 |      31      |                       |        |                              |
 |      32      |                       |        |                              |
-|      33      |                       |        |                              |
-|      34      |                       |        |                              |
+|      33      | Thomas Böhm           | 5BHIF  | 8                            |
+|      34      | Lukas Mistlberger     | 5BHIF  | 6                            |
 |      35      |                       |        |                              |
 |      36      |                       |        |                              |
 |      37      |                       |        |                              |
@@ -54,13 +54,13 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      44      |                       |        |                              |
 |      45      |                       |        |                              |
 |      46      |                       |        |                              |
-|      47      |                       |        |                              |
-|      48      |                       |        |                              |
-|      49      |                       |        |                              |
-|      50      |                       |        |                              |
-|      51      |                       |        |                              |
-|      52      |                       |        |                              |
-|      53      |                       |        |                              |
+|      47      | Peter Leitner         | 5BHIF  | 10                           |
+|      48      | Peter Leitner         | 5BHIF  | 10                           |
+|      49      | Felix Leibetseder     | 5BHIF  | 10                           |
+|      50      | Martin Böhm           | 5BHIF  | 4                            |
+|      51      | Martin Böhm           | 5BHIF  | 4                            |
+|      52      | Martin Böhm           | 5BHIF  | 4                            |
+|      53      | Martin Böhm           | 5BHIF  | 4                            |
 |      54      | Tim Klecka            | 5BHIF  |                              |
 |      55      | Markus Kurzmann       | 5BHIF  | 10                           |
 |      56      | Michael Hitzker       | 5BHIF  | 5                            |
