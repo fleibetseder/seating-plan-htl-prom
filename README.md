@@ -57,10 +57,10 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      47      |                       |        |                              |
 |      48      |                       |        |                              |
 |      49      |                       |        |                              |
-|      50      |                       |        |                              |
-|      51      |                       |        |                              |
-|      52      |                       |        |                              |
-|      53      |                       |        |                              |
+|      50      | Martin Böhm           | 5BHIF  | 4                            |
+|      51      | Martin Böhm           | 5BHIF  | 4                            |
+|      52      | Martin Böhm           | 5BHIF  | 4                            |
+|      53      | Martin Böhm           | 5BHIF  | 4                            |
 |      54      | Tim Klecka            | 5BHIF  |                              |
 |      55      | Markus Kurzmann       | 5BHIF  | 10                           |
 |      56      | Michael Hitzker       | 5BHIF  | 5                            |
