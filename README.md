@@ -40,7 +40,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      30      |                       |        |                              |
 |      31      |                       |        |                              |
 |      32      |                       |        |                              |
-|      33      |                       |        |                              |
+|      33      | Thomas Böhm           | 5BHIF  | 8                            |
 |      34      |                       |        |                              |
 |      35      |                       |        |                              |
 |      36      |                       |        |                              |
