@@ -9,13 +9,13 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |  Tischnummer |  Schülername          | Klasse | Anzahl von Personen am Tisch |
 |:------------:| --------------------- | ------ |:----------------------------:|
 |      01      | Lang Christina        | 5AHIF  | 10                           |
-|      02      | Hofer Daniel; Lang Christina | 5AHIF  | 2; 4                         |
+|      02      | Hofer Daniel; Lang Christina | 5AHIF  | 2; 4                  |
 |      03      | Katrin Haslinger      | 5AHIF  | 10                           |
 |      04      | Lange Samuel          | 5AHIF  | 9                            |
 |      05      |                       |        |                              |
 |      06      | René Stadler          | 5BHIF  | 10                           |
-|      07      |                       |        |                              |
-|      08      |                       |        |                              |
+|      07      | Tobias Seyer          | 4AFIT  | 10                           |
+|      08      | Tobias Seyer          | 4AFIT  | 10                           |
 |      09      |                       |        |                              |
 |      10      | Jürgen Riegler        | 5AHIF  | 6                            |
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
@@ -35,10 +35,10 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      25      | Alexander Brunner     | 5AHIF  | 10                           |
 |      26      | Patrick Wegerer       | 5AHIF  | 10                           |
 |      27      | Patrick Wegerer       | 5AHIF  | 5                            |
-|      28      | Jakob Aschauer        | 5AHIF  |15                              |
-|      29      | Florian Hitzler       | 5AHIF  |4                              |
+|      28      | Jakob Aschauer        | 5AHIF  | 15                           |
+|      29      | Florian Hitzler       | 5AHIF  | 4                            |
 |      30      |                       |        |                              |
-|      31      |                       |        |                              |
+|      31      | Gökcer Yolacan        | 4AFIT  | 10                           |
 |      32      |                       |        |                              |
 |      33      | Thomas Böhm           | 5BHIF  | 8                            |
 |      34      | Lukas Mistlberger     | 5BHIF  | 6                            |
@@ -68,5 +68,5 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      58      | Thomas Brych          | 5BHIF  | 5                            |
 |      59      | FlorianFriedl         | 5AHIF  |                              |
 |      60      | Philipp Brandstetter  | 5BHIF  | 5                            |
-|      61      |                       |        |                              |
+|      61      | Florian Lehner        | 4AFIT  |                              |
          
