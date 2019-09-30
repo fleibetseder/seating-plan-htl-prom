@@ -27,7 +27,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      17      | Lukas Rauchenzauner   | 5AHIF  |                              |
 |      18      | LEHRER                |        |                              |
 |      19      | LEHRER                |        |                              |
-|      20      | Daniel Pallinger      | 5AHIF  | 7                            |
+|      20      | Daniel Pallinger      | 5AHIF  | 10                           |
 |      21      | LEHRER                |        |                              |
 |      22      | LEHRER                |        |                              |
 |      23      | Alexander Schönberger | 5AHIF  |                              |
