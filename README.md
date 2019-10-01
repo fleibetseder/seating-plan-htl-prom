@@ -21,7 +21,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
 |      12      | Max Gusenbauer        | 5AHIF  | 10                           |
 |      13      | Max Gusenbauer        | 5AHIF  | 4                            |
-|      14      | Hofer Daniel          | 5AHIF  | 4                            |
+|      14      | Hofer Daniel; Philipp Brandstetter | 5AHIF; 5BHIF | 4; 6      |
 |      15      | LEHRER                |        |                              |
 |      16      | LEHRER                |        |                              |
 |      17      | Lukas Rauchenzauner   | 5AHIF  |                              |
@@ -67,6 +67,6 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      57      | Thomas Brych          | 5BHIF  | 5                            |
 |      58      | Thomas Brych          | 5BHIF  | 5                            |
 |      59      | FlorianFriedl         | 5AHIF  |                              |
-|      60      | Philipp Brandstetter  | 5BHIF  | 5                            |
+|      60      |                       |        |                              |
 |      61      | Florian Lehner        | 4AFIT  |                              |
          
