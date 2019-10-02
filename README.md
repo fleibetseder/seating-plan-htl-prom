@@ -47,7 +47,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      37      |                       |        |                              |
 |      38      | Armin Causevic        | 5BHIF  | 8                            |
 |      39      |                       |        |                              |
-|      40      |                       |        |                              |
+|      40      | Deniz Ongun           | 4AFIT  | 6                            |
 |      41      |                       |        |                              |
 |      42      |                       |        |                              |
 |      43      |                       |        |                              |
