@@ -16,7 +16,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      06      | René Stadler          | 5BHIF  | 10                           |
 |      07      | Tobias Seyer          | 4AFIT  | 10                           |
 |      08      | Tobias Seyer          | 4AFIT  | 10                           |
-|      09      |                       |        |                              |
+|      09      | Michael Scheuchenpflug | 5AHIF |                              |
 |      10      | Jürgen Riegler        | 5AHIF  | 6                            |
 |      11      | Jürgen Riegler        | 5AHIF  | 10                           |
 |      12      | Max Gusenbauer        | 5AHIF  | 10                           |
