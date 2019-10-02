@@ -45,7 +45,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      35      |                       |        |                              |
 |      36      |                       |        |                              |
 |      37      |                       |        |                              |
-|      38      |                       |        |                              |
+|      38      | Armin Causevic        | 5BHIF  | 8                            |
 |      39      |                       |        |                              |
 |      40      |                       |        |                              |
 |      41      |                       |        |                              |
